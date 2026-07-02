@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://plumb-me-58c0d304.zappy5.app
+https://example.com
 Plumb Me delivers expert residential plumbing services in New York with a smile. From leaks to clogs, our local pros handle it all. Schedule your service today!
 
 ### Services
-https://plumb-me-58c0d304.zappy5.app/services
+https://example.com/services
 Explore Plumb Me&#39;s full range of home services: plumbing, heating, air &amp; electrical solutions. Quality workmanship and upfront pricing. See how we can help!
 
 ### About
-https://plumb-me-58c0d304.zappy5.app/about
+https://example.com/about
 Discover the Plumb Me difference: a local New York team built on trust, skill, and a playful spirit. Learn why neighbors choose us for all their plumbing needs.
 
 ### Contact
-https://plumb-me-58c0d304.zappy5.app/contact
+https://example.com/contact
 Ready for reliable service? Contact Plumb Me for action plumbing, heating and air in New York. Get your free estimate and experience the friendliest service in town!
 
 ### Thank You | Plumb Me
-https://plumb-me-58c0d304.zappy5.app/thank-you
+https://example.com/thank-you
 Plumb Me - Thank You | Plumb Me
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://plumb-me-58c0d304.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://plumb-me-58c0d304.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://plumb-me-58c0d304.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://plumb-me-58c0d304.zappy5.app/contact
-- Endpoint: https://plumb-me-58c0d304.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Home Services / Plumbing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://plumb-me-58c0d304.zappy5.app/sitemap.xml
-- Robots: https://plumb-me-58c0d304.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://plumb-me-58c0d304.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
