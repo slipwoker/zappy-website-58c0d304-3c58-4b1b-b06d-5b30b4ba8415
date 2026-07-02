@@ -1,0 +1,83 @@
+# Plumb Me — Generative Engine Optimization Map
+
+> Plumb Me is a local plumbing business based in New York, serving the surrounding community with plumbing solutions. The brand name has a playful, memorable twist that gives it a friendly and approachable personality, setting it apart from more generic plumbing companies.
+
+---
+
+## Pages
+
+### Home
+https://plumb-me-58c0d304.zappy5.app
+Plumb Me delivers expert residential plumbing services in New York with a smile. From leaks to clogs, our local pros handle it all. Schedule your service today!
+
+### Services
+https://plumb-me-58c0d304.zappy5.app/services
+Explore Plumb Me&#39;s full range of home services: plumbing, heating, air &amp; electrical solutions. Quality workmanship and upfront pricing. See how we can help!
+
+### About
+https://plumb-me-58c0d304.zappy5.app/about
+Discover the Plumb Me difference: a local New York team built on trust, skill, and a playful spirit. Learn why neighbors choose us for all their plumbing needs.
+
+### Contact
+https://plumb-me-58c0d304.zappy5.app/contact
+Ready for reliable service? Contact Plumb Me for action plumbing, heating and air in New York. Get your free estimate and experience the friendliest service in town!
+
+### Thank You | Plumb Me
+https://plumb-me-58c0d304.zappy5.app/thank-you
+Plumb Me - Thank You | Plumb Me
+
+## Legal & Policy
+
+### Privacy Policy
+https://plumb-me-58c0d304.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://plumb-me-58c0d304.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://plumb-me-58c0d304.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://plumb-me-58c0d304.zappy5.app/contact
+- Endpoint: https://plumb-me-58c0d304.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Plumb Me
+Plumb Me is a local plumbing business based in New York, serving the surrounding community with plumbing solutions. The brand name has a playful, memorable twist that gives it a friendly and approachable personality, setting it apart from more generic plumbing companies.
+
+## Target Audience
+- local residents and businesses in New York
+- Local Homeowners in NY
+- Property Management Firms
+- New Homebuyers in NY
+
+## Industry
+Home Services / Plumbing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://plumb-me-58c0d304.zappy5.app/sitemap.xml
+- Robots: https://plumb-me-58c0d304.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://plumb-me-58c0d304.zappy5.app/llms-full.txt
